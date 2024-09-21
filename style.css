@@ -235,7 +235,6 @@ footer{
     height: auto;
     margin-right: 10%;
 }
-
 /*フォーム*/
 form div{
     margin-bottom: 14px;
@@ -348,5 +347,5 @@ input[type="submit"]{
         width: auto;
         text-align: center;
     }
-    
+ 
 }
