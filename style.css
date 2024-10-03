@@ -300,6 +300,9 @@ input[type="submit"]{
     .main-nav{
         font-siza:14px;
     }
+    .btn{
+        font-siza:14px;
+    }
     /*ABOUT*/
     .home-title{
         text-align: center;
