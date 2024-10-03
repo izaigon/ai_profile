@@ -154,10 +154,7 @@ a:hover{
     padding: 50px;
 }
 .btn a{
-    margin-right: 50px;
-}
-.btn-view a{
-    margin-left: 50px;
+    margin-right: 30px;
 }
 /*送信ボタン*/
 .btn-submit{
