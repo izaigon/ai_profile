@@ -297,7 +297,7 @@ input[type="submit"]{
     .media-left{
         margin-left: 0;
     }
-    .main-nav{
+    .main-nav li{
         font-size:14px;
     }
     .btn{
