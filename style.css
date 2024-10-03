@@ -297,6 +297,9 @@ input[type="submit"]{
     .media-left{
         margin-left: 0;
     }
+    .main-nav{
+        font-siza:14px;
+    }
     /*ABOUT*/
     .home-title{
         text-align: center;
