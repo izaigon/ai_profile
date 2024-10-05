@@ -1,6 +1,10 @@
 @charset "UTF-8";
 
 /*共通部分*/
+*{
+    box-sizing: border-box;
+}
+
 html{
     font-size: 100%;
 }
