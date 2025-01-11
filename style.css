@@ -138,7 +138,9 @@ a:hover{
 .work-title{
     margin-top: 5px;
 }
-
+.common-display .my-work{
+    margin-right: 30px;
+}
 
 /*ボタン*/
 .btn-contact{
